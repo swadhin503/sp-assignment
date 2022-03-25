@@ -1,0 +1,33 @@
+.header-container{
+    margin-top: 20px;
+}
+.header-text {
+    font-size: 50px;
+    font-weight: bold;
+}
+.blog-text{
+    color: aqua;
+}
+.image img{
+ height: 600px;
+}
+.link-container{
+    border: 3px solid black;
+    border-radius:10px;
+    background-color:yellow;
+    color: white;
+}
+.link-title{
+    margin-top:10px;
+    padding: 5px;
+    border: 2px solid rgb(199, 25, 25);
+    border-radius:5px;
+    background-color:blueviolet;
+}
+/* footer{
+    height: 200px;
+    background-color:black;
+    color: white;
+    text-align: center;
+} */
+
